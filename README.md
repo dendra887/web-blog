@@ -20,7 +20,7 @@
             </ul>
         </div>
         <!--  NAVIGATION BAR SELESAI  -->
-*,
+<html>            
 html {
     margin: 0;
     padding: 0%;
@@ -78,7 +78,7 @@ html {
     justify-content: center;
     align-items: center;
 }
-
+</html>
 .h1-footer {
     font-size: 40px;
     color: white;
